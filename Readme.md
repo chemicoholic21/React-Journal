@@ -37,9 +37,7 @@ React-Journal/
 │ └── components/
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
